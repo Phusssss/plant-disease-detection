@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+python-multipart
+requests
+pillow
+psycopg2-binary
