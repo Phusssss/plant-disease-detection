@@ -1,0 +1,626 @@
+[
+  {
+    "name": "Cà chua cherry",
+    "scientific_name": "Solanum lycopersicum var. cerasiforme",
+    "description": "Cà chua nhỏ, ngọt, dễ trồng trong chậu",
+    "care_instructions": "Tưới nước đều đặn, cần ánh sáng mạnh 6-8 tiếng/ngày"
+  },
+  {
+    "name": "Rau muống",
+    "scientific_name": "Ipomoea aquatica",
+    "description": "Rau lá xanh phổ biến, giàu dinh dưỡng",
+    "care_instructions": "Trồng nơi ẩm ướt, tưới nước nhiều, thu hoạch sau 20-30 ngày"
+  },
+  {
+    "name": "Cải bó xôi",
+    "scientific_name": "Spinacia oleracea",
+    "description": "Rau lá giàu sắt và vitamin",
+    "care_instructions": "Trồng mùa mát, tưới đều, tránh úng nước"
+  },
+  {
+    "name": "Húng quế",
+    "scientific_name": "Ocimum basilicum",
+    "description": "Cây gia vị thơm, dễ trồng",
+    "care_instructions": "Cần ánh sáng, tưới vừa phải, hái lá thường xuyên"
+  },
+  {
+    "name": "Ớt chuông",
+    "scientific_name": "Capsicum annuum",
+    "description": "Ớt ngọt, nhiều màu sắc",
+    "care_instructions": "Cần nhiều ánh sáng, tưới đều, bón phân định kỳ"
+  },
+  {
+    "name": "Dưa leo",
+    "scientific_name": "Cucumis sativus",
+    "description": "Quả giòn, mát, dễ trồng",
+    "care_instructions": "Leo giàn, tưới nhiều nước, thu hoạch khi còn non"
+  },
+  {
+    "name": "Cà tím",
+    "scientific_name": "Solanum melongena",
+    "description": "Quả tím, thịt trắng, bổ dưỡng",
+    "care_instructions": "Cần đất tơi xốp, tưới đều, chống sâu bệnh"
+  },
+  {
+    "name": "Bí đỏ",
+    "scientific_name": "Cucurbita maxima",
+    "description": "Quả to, thịt cam, ngọt",
+    "care_instructions": "Cần không gian rộng, tưới nhiều, bón phân hữu cơ"
+  },
+  {
+    "name": "Đậu cove",
+    "scientific_name": "Vigna unguiculata",
+    "description": "Đậu dài, giòn, dễ trồng",
+    "care_instructions": "Leo giàn, tưới vừa phải, thu hoạch khi còn non"
+  },
+  {
+    "name": "Xà lách",
+    "scientific_name": "Lactuca sativa",
+    "description": "Rau salad phổ biến, lá mềm",
+    "care_instructions": "Trồng mùa mát, tưới nhẹ, tránh ánh nắng gắt"
+  },
+  {
+    "name": "Cần tây",
+    "scientific_name": "Apium graveolens",
+    "description": "Rau thơm, giòn, giàu chất xơ",
+    "care_instructions": "Cần đất ẩm, tưới đều đặn, thu hoạch từng lá"
+  },
+  {
+    "name": "Bắp cải",
+    "scientific_name": "Brassica oleracea",
+    "description": "Rau lá cuộn tròn, giòn ngọt",
+    "care_instructions": "Trồng mùa mát, bón phân đều, tưới vừa phải"
+  },
+  {
+    "name": "Cà rốt",
+    "scientific_name": "Daucus carota",
+    "description": "Củ cam, giàu vitamin A",
+    "care_instructions": "Đất tơi xốp sâu, tưới nhẹ, tránh bón phân tươi"
+  },
+  {
+    "name": "Củ cải trắng",
+    "scientific_name": "Raphanus sativus",
+    "description": "Củ trắng, giòn, mát",
+    "care_instructions": "Đất tơi xốp, tưới đều, thu hoạch sau 45-60 ngày"
+  },
+  {
+    "name": "Hành lá",
+    "scientific_name": "Allium fistulosum",
+    "description": "Gia vị thơm, lá xanh",
+    "care_instructions": "Dễ trồng, tưới vừa phải, cắt lá thường xuyên"
+  },
+  {
+    "name": "Tỏi",
+    "scientific_name": "Allium sativum",
+    "description": "Gia vị quan trọng, có tính kháng khuẩn",
+    "care_instructions": "Trồng mùa khô, ít tưới, thu hoạch khi lá vàng"
+  },
+  {
+    "name": "Gừng",
+    "scientific_name": "Zingiber officinale",
+    "description": "Củ thơm cay, dùng làm gia vị và thuốc",
+    "care_instructions": "Trồng nơi bóng mát, đất thoát nước, thu hoạch sau 8-10 tháng"
+  },
+  {
+    "name": "Nghệ",
+    "scientific_name": "Curcuma longa",
+    "description": "Củ vàng, có tính chống viêm",
+    "care_instructions": "Trồng nơi ẩm, tưới đều, thu hoạch sau 7-10 tháng"
+  },
+  {
+    "name": "Lá lốt",
+    "scientific_name": "Piper lolot",
+    "description": "Lá thơm, dùng gói thịt nướng",
+    "care_instructions": "Leo giàn, nơi bóng mát, tưới đều đặn"
+  },
+  {
+    "name": "Kinh giới",
+    "scientific_name": "Elsholtzia ciliata",
+    "description": "Rau thơm, dùng nấu canh chua",
+    "care_instructions": "Dễ trồng, tưới vừa phải, hái lá non"
+  },
+  {
+    "name": "Ngò gai",
+    "scientific_name": "Eryngium foetidum",
+    "description": "Rau thơm đặc trưng miền Nam",
+    "care_instructions": "Trồng nơi bóng mát, tưới đều, hái lá thường xuyên"
+  },
+  {
+    "name": "Rau răm",
+    "scientific_name": "Polygonum odoratum",
+    "description": "Rau thơm, ăn sống hoặc nấu canh",
+    "care_instructions": "Trồng nơi ẩm, tưới nhiều, cắt ngọn thường xuyên"
+  },
+  {
+    "name": "Mùi tàu",
+    "scientific_name": "Coriandrum sativum",
+    "description": "Rau thơm phổ biến, lá và hạt đều dùng được",
+    "care_instructions": "Trồng mùa mát, tưới nhẹ, thu hoạch lá non"
+  },
+  {
+    "name": "Dill",
+    "scientific_name": "Anethum graveolens",
+    "description": "Rau thơm Tây, lá mảnh như chỉ",
+    "care_instructions": "Cần ánh sáng, tưới vừa phải, hái lá thường xuyên"
+  },
+  {
+    "name": "Bạc hà",
+    "scientific_name": "Mentha",
+    "description": "Lá thơm mát, dùng pha trà",
+    "care_instructions": "Trồng nơi ẩm, tưới nhiều, cắt tỉa thường xuyên"
+  },
+  {
+    "name": "Sả",
+    "scientific_name": "Cymbopogon citratus",
+    "description": "Cỏ thơm, dùng nấu nước và gia vị",
+    "care_instructions": "Dễ trồng, chịu hạn, chia khóm để nhân giống"
+  },
+  {
+    "name": "Lá chanh",
+    "scientific_name": "Citrus hystrix",
+    "description": "Lá thơm đặc trưng, dùng nấu cà ri",
+    "care_instructions": "Cần ánh sáng, tưới đều, bón phân định kỳ"
+  },
+  {
+    "name": "Đu đủ",
+    "scientific_name": "Carica papaya",
+    "description": "Cây ăn quả nhiệt đới, quả ngọt",
+    "care_instructions": "Cần ánh sáng mạnh, tưới đều, bón phân hữu cơ"
+  },
+  {
+    "name": "Chuối",
+    "scientific_name": "Musa",
+    "description": "Cây ăn quả phổ biến, giàu kali",
+    "care_instructions": "Cần nước nhiều, đất màu mỡ, chặt bỏ nhánh phụ"
+  },
+  {
+    "name": "Xoài",
+    "scientific_name": "Mangifera indica",
+    "description": "Cây ăn quả nhiệt đới, quả thơm ngọt",
+    "care_instructions": "Cần ánh sáng, tưới vừa phải, tỉa cành định kỳ"
+  },
+  {
+    "name": "Ổi",
+    "scientific_name": "Psidium guajava",
+    "description": "Quả giàu vitamin C, dễ trồng",
+    "care_instructions": "Chịu hạn tốt, tỉa cành, bón phân định kỳ"
+  },
+  {
+    "name": "Chanh",
+    "scientific_name": "Citrus aurantifolia",
+    "description": "Quả chua, dùng gia vị và nước uống",
+    "care_instructions": "Cần ánh sáng, tưới đều, bón phân có kali"
+  },
+  {
+    "name": "Cam",
+    "scientific_name": "Citrus sinensis",
+    "description": "Quả ngọt, giàu vitamin C",
+    "care_instructions": "Cần ánh sáng mạnh, tưới đều, bón phân cân bằng"
+  },
+  {
+    "name": "Bưởi",
+    "scientific_name": "Citrus maxima",
+    "description": "Quả to, thịt ngọt, ít chua",
+    "care_instructions": "Cần không gian rộng, tưới đều, tỉa cành thường xuyên"
+  },
+  {
+    "name": "Mít",
+    "scientific_name": "Artocarpus heterophyllus",
+    "description": "Quả to nhất thế giới, thịt ngọt thơm",
+    "care_instructions": "Cần không gian lớn, tưới đều, bón phân hữu cơ"
+  },
+  {
+    "name": "Dừa",
+    "scientific_name": "Cocos nucifera",
+    "description": "Cây đa dụng, nước và cơm đều dùng được",
+    "care_instructions": "Gần biển tốt nhất, chịu mặn, ít chăm sóc"
+  },
+  {
+    "name": "Vải",
+    "scientific_name": "Litchi chinensis",
+    "description": "Quả ngọt, thịt trắng trong, vỏ đỏ",
+    "care_instructions": "Cần khí hậu ấm, tưới đều, bón phân định kỳ"
+  },
+  {
+    "name": "Nhãn",
+    "scientific_name": "Dimocarpus longan",
+    "description": "Quả nhỏ, ngọt, thịt trong suốt",
+    "care_instructions": "Tương tự vải, cần tỉa cành sau thu hoạch"
+  },
+  {
+    "name": "Chôm chôm",
+    "scientific_name": "Nephelium lappaceum",
+    "description": "Quả đỏ có gai mềm, thịt trắng ngọt",
+    "care_instructions": "Cần khí hậu ẩm, tưới đều, bón phân hữu cơ"
+  },
+  {
+    "name": "Măng cụt",
+    "scientific_name": "Garcinia mangostana",
+    "description": "Nữ hoàng trái cây, vỏ tím thịt trắng",
+    "care_instructions": "Cần khí hậu ẩm ướt, bóng mát, tưới đều"
+  },
+  {
+    "name": "Sầu riêng",
+    "scientific_name": "Durio zibethinus",
+    "description": "Vua trái cây, mùi đặc trưng",
+    "care_instructions": "Cần khí hậu nhiệt đới ẩm, đất thoát nước tốt"
+  },
+  {
+    "name": "Na",
+    "scientific_name": "Annona squamosa",
+    "description": "Quả có vảy, thịt trắng ngọt",
+    "care_instructions": "Chịu hạn tốt, cần ánh sáng, tỉa cành định kỳ"
+  },
+  {
+    "name": "Mãng cầu xiêm",
+    "scientific_name": "Annona muricata",
+    "description": "Quả to có gai mềm, vị chua ngọt",
+    "care_instructions": "Cần khí hậu ấm, tưới đều, bón phân hữu cơ"
+  },
+  {
+    "name": "Thanh long",
+    "scientific_name": "Hylocereus undatus",
+    "description": "Cây xương rồng, quả đỏ thịt trắng",
+    "care_instructions": "Leo giàn, ít nước, cần ánh sáng, chịu hạn tốt"
+  },
+  {
+    "name": "Dâu tây",
+    "scientific_name": "Fragaria × ananassa",
+    "description": "Quả đỏ nhỏ, ngọt chua, giàu vitamin",
+    "care_instructions": "Trồng mùa mát, tưới đều, cần ánh sáng vừa phải"
+  },
+  {
+    "name": "Nho",
+    "scientific_name": "Vitis vinifera",
+    "description": "Quả chùm, ngọt, làm rượu vang",
+    "care_instructions": "Leo giàn, cần ánh sáng mạnh, tỉa cành thường xuyên"
+  },
+  {
+    "name": "Lê",
+    "scientific_name": "Pyrus communis",
+    "description": "Quả ngọt, giòn, hình quả lê",
+    "care_instructions": "Cần khí hậu mát, tưới đều, tỉa cành mùa đông"
+  },
+  {
+    "name": "Đào",
+    "scientific_name": "Prunus persica",
+    "description": "Quả mềm, ngọt, có lông mịn",
+    "care_instructions": "Cần mùa đông lạnh, tỉa cành, bón phân định kỳ"
+  },
+  {
+    "name": "Mận",
+    "scientific_name": "Prunus domestica",
+    "description": "Quả nhỏ, chua ngọt, nhiều màu",
+    "care_instructions": "Tương tự đào, cần tỉa cành để thông thoáng"
+  },
+  {
+    "name": "Cherry",
+    "scientific_name": "Prunus avium",
+    "description": "Quả đỏ nhỏ, ngọt, giá trị cao",
+    "care_instructions": "Cần khí hậu ôn đới, tưới đều, chống chim ăn"
+  },
+  {
+    "name": "Kiwi",
+    "scientific_name": "Actinidia deliciosa",
+    "description": "Quả có lông, thịt xanh, chua ngọt",
+    "care_instructions": "Leo giàn, cần cây đực và cái, tưới đều"
+  },
+  {
+    "name": "Lựu",
+    "scientific_name": "Punica granatum",
+    "description": "Quả đỏ, hạt nhiều, giàu chất chống oxy hóa",
+    "care_instructions": "Chịu hạn tốt, cần ánh sáng, tỉa cành khô"
+  },
+  {
+    "name": "Sung",
+    "scientific_name": "Ficus carica",
+    "description": "Quả ngọt, mềm, giàu chất xơ",
+    "care_instructions": "Chịu hạn, cần ánh sáng, thu hoạch khi chín mềm"
+  },
+  {
+    "name": "Hồng",
+    "scientific_name": "Diospyros kaki",
+    "description": "Quả cam, ngọt, giòn hoặc mềm",
+    "care_instructions": "Cần mùa đông lạnh, tưới đều, tỉa cành định kỳ"
+  },
+  {
+    "name": "Táo tàu",
+    "scientific_name": "Ziziphus jujuba",
+    "description": "Quả nhỏ, ngọt, có thể sấy khô",
+    "care_instructions": "Chịu hạn tốt, dễ trồng, tỉa cành thường xuyên"
+  },
+  {
+    "name": "Mơ",
+    "scientific_name": "Prunus armeniaca",
+    "description": "Quả cam, mềm, thơm ngọt",
+    "care_instructions": "Cần khí hậu khô, tưới ít, tỉa cành mùa đông"
+  },
+  {
+    "name": "Dưa hấu",
+    "scientific_name": "Citrullus lanatus",
+    "description": "Quả to, thịt đỏ, nhiều nước",
+    "care_instructions": "Cần không gian rộng, tưới nhiều, thu hoạch khi chín"
+  },
+  {
+    "name": "Dưa lưới",
+    "scientific_name": "Cucumis melo",
+    "description": "Quả có vân lưới, thịt cam ngọt",
+    "care_instructions": "Cần khí hậu ấm, tưới đều, thu hoạch đúng lúc"
+  },
+  {
+    "name": "Dưa gang",
+    "scientific_name": "Cucumis melo var. cantalupensis",
+    "description": "Dưa có múi, thịt cam, thơm ngọt",
+    "care_instructions": "Tương tự dưa lưới, cần bón phân kali"
+  },
+  {
+    "name": "Bí ngô",
+    "scientific_name": "Cucurbita pepo",
+    "description": "Quả cam, thịt ngọt, làm bánh",
+    "care_instructions": "Cần không gian rộng, tưới đều, bón phân hữu cơ"
+  },
+  {
+    "name": "Bí xanh",
+    "scientific_name": "Cucurbita maxima",
+    "description": "Bí to, vỏ xanh, thịt vàng",
+    "care_instructions": "Cần đất màu mỡ, tưới nhiều, thu hoạch khi già"
+  },
+  {
+    "name": "Su hào",
+    "scientific_name": "Brassica oleracea var. gongylodes",
+    "description": "Củ phình to, lá xanh, giòn ngọt",
+    "care_instructions": "Trồng mùa mát, tưới đều, thu hoạch khi củ to"
+  },
+  {
+    "name": "Cải thảo",
+    "scientific_name": "Brassica rapa subsp. pekinensis",
+    "description": "Bắp cải dài, lá mềm, ngọt",
+    "care_instructions": "Trồng mùa mát, tưới đều, bón phân đạm"
+  },
+  {
+    "name": "Cải ngọt",
+    "scientific_name": "Brassica juncea",
+    "description": "Lá xanh, cọng trắng, giòn ngọt",
+    "care_instructions": "Dễ trồng, tưới đều, thu hoạch lá non"
+  },
+  {
+    "name": "Cải xoăn",
+    "scientific_name": "Brassica oleracea var. acephala",
+    "description": "Lá xoăn, xanh đậm, giàu dinh dưỡng",
+    "care_instructions": "Trồng mùa mát, tưới đều, hái lá ngoài"
+  },
+  {
+    "name": "Súp lơ",
+    "scientific_name": "Brassica oleracea var. botrytis",
+    "description": "Hoa màu trắng, giòn, bổ dưỡng",
+    "care_instructions": "Cần khí hậu mát, tưới đều, che nắng cho hoa"
+  },
+  {
+    "name": "Súp lơ xanh",
+    "scientific_name": "Brassica oleracea var. italica",
+    "description": "Hoa xanh, giàu vitamin, giòn ngọt",
+    "care_instructions": "Tương tự súp lơ trắng, thu hoạch khi hoa chưa nở"
+  },
+  {
+    "name": "Cần tây Tây",
+    "scientific_name": "Apium graveolens var. dulce",
+    "description": "Cọng to, giòn, ít xơ",
+    "care_instructions": "Cần đất ẩm, tưới nhiều, bón phân đạm"
+  },
+  {
+    "name": "Atiso",
+    "scientific_name": "Cynara cardunculus var. scolymus",
+    "description": "Hoa to, lá có gai, bổ gan",
+    "care_instructions": "Cần khí hậu mát, tưới đều, thu hoạch hoa non"
+  },
+  {
+    "name": "Măng tây",
+    "scientific_name": "Asparagus officinalis",
+    "description": "Chồi non, giòn, giá trị dinh dưỡng cao",
+    "care_instructions": "Trồng lâu năm, cần đất thoát nước, thu hoạch chồi non"
+  },
+  {
+    "name": "Rau bina",
+    "scientific_name": "Amaranthus tricolor",
+    "description": "Lá đỏ tím, giòn, đẹp mắt",
+    "care_instructions": "Dễ trồng, chịu nắng, tưới đều, hái lá non"
+  },
+  {
+    "name": "Rau dền",
+    "scientific_name": "Amaranthus viridis",
+    "description": "Lá xanh, mềm, giàu sắt",
+    "care_instructions": "Dễ trồng, chịu nắng, tưới vừa phải"
+  },
+  {
+    "name": "Mồng tơi",
+    "scientific_name": "Basella alba",
+    "description": "Lá tròn, nhớt, mát gan",
+    "care_instructions": "Leo giàn, tưới nhiều, hái lá thường xuyên"
+  },
+  {
+    "name": "Rau ngót",
+    "scientific_name": "Hibiscus sabdariffa",
+    "description": "Lá chua, làm canh chua",
+    "care_instructions": "Chịu nắng tốt, tưới vừa phải, hái lá non"
+  },
+  {
+    "name": "Lá giang",
+    "scientific_name": "Pseuderanthemum palatiferum",
+    "description": "Lá tím, thơm, nấu canh chua",
+    "care_instructions": "Trồng bóng mát, tưới đều, hái lá non"
+  },
+  {
+    "name": "Tía tô",
+    "scientific_name": "Perilla frutescens",
+    "description": "Lá tím, thơm, chống dị ứng",
+    "care_instructions": "Dễ trồng, tưới vừa phải, hái lá thường xuyên"
+  },
+  {
+    "name": "Kinh giới tím",
+    "scientific_name": "Elsholtzia ciliata",
+    "description": "Lá tím, thơm, nấu canh chua",
+    "care_instructions": "Trồng mùa mát, tưới đều, hái lá non"
+  },
+  {
+    "name": "Rau thơm",
+    "scientific_name": "Limnophila aromatica",
+    "description": "Lá nhỏ, thơm, nấu canh chua",
+    "care_instructions": "Trồng nơi ẩm, tưới nhiều, hái ngọn non"
+  },
+  {
+    "name": "Ngò om",
+    "scientific_name": "Limnophila aromatica",
+    "description": "Lá thơm, dùng nấu lẩu",
+    "care_instructions": "Cần nước nhiều, trồng nơi ẩm, hái thường xuyên"
+  },
+  {
+    "name": "Rau má",
+    "scientific_name": "Centella asiatica",
+    "description": "Lá tròn, mát gan, làm nước uống",
+    "care_instructions": "Trồng nơi ẩm, bóng mát, tưới nhiều"
+  },
+  {
+    "name": "Diếp cá",
+    "scientific_name": "Houttuynia cordata",
+    "description": "Lá hình tim, mùi đặc trưng, kháng viêm",
+    "care_instructions": "Trồng nơi ẩm, bóng mát, lan nhanh"
+  },
+  {
+    "name": "Lá lốt rừng",
+    "scientific_name": "Piper sarmentosum",
+    "description": "Lá tròn, thơm nhẹ, ăn sống",
+    "care_instructions": "Trồng bóng mát, tưới đều, leo giàn thấp"
+  },
+  {
+    "name": "Cỏ ngọt",
+    "scientific_name": "Stevia rebaudiana",
+    "description": "Lá ngọt tự nhiên, thay đường",
+    "care_instructions": "Cần ánh sáng vừa, tưới đều, hái lá già"
+  },
+  {
+    "name": "Lá nếp",
+    "scientific_name": "Piper lolot",
+    "description": "Lá thơm, gói bánh, nướng thịt",
+    "care_instructions": "Leo giàn, bóng mát, tưới đều đặn"
+  },
+  {
+    "name": "Húng láng",
+    "scientific_name": "Ocimum gratissimum",
+    "description": "Lá to, thơm mạnh, làm trà",
+    "care_instructions": "Chịu nắng, tưới vừa phải, cắt hoa để lá phát triển"
+  },
+  {
+    "name": "Húng lủi",
+    "scientific_name": "Ocimum americanum",
+    "description": "Lá nhỏ, thơm, ăn sống",
+    "care_instructions": "Dễ trồng, chịu nắng, hái lá thường xuyên"
+  },
+  {
+    "name": "Thì là",
+    "scientific_name": "Anethum graveolens",
+    "description": "Lá mảnh, thơm, gia vị Tây",
+    "care_instructions": "Trồng mùa mát, tưới nhẹ, hái lá non"
+  },
+  {
+    "name": "Oregano",
+    "scientific_name": "Origanum vulgare",
+    "description": "Lá nhỏ, thơm, làm pizza",
+    "care_instructions": "Chịu hạn, cần ánh sáng, cắt tỉa thường xuyên"
+  },
+  {
+    "name": "Rosemary",
+    "scientific_name": "Rosmarinus officinalis",
+    "description": "Lá kim, thơm mạnh, nướng thịt",
+    "care_instructions": "Chịu hạn tốt, cần ánh sáng, ít tưới"
+  },
+  {
+    "name": "Thyme",
+    "scientific_name": "Thymus vulgaris",
+    "description": "Lá nhỏ, thơm, gia vị Tây",
+    "care_instructions": "Chịu hạn, cần ánh sáng, cắt tỉa nhẹ"
+  },
+  {
+    "name": "Sage",
+    "scientific_name": "Salvia officinalis",
+    "description": "Lá xám xanh, thơm, làm trà",
+    "care_instructions": "Chịu hạn, cần ánh sáng, cắt tỉa sau ra hoa"
+  },
+  {
+    "name": "Lavender",
+    "scientific_name": "Lavandula angustifolia",
+    "description": "Hoa tím, thơm, làm tinh dầu",
+    "care_instructions": "Chịu hạn tốt, cần ánh sáng mạnh, cắt tỉa sau ra hoa"
+  },
+  {
+    "name": "Lemon balm",
+    "scientific_name": "Melissa officinalis",
+    "description": "Lá thơm chanh, làm trà thư giãn",
+    "care_instructions": "Trồng bóng mát, tưới đều, cắt tỉa thường xuyên"
+  },
+  {
+    "name": "Chives",
+    "scientific_name": "Allium schoenoprasum",
+    "description": "Lá ống, vị hành nhẹ, trang trí món ăn",
+    "care_instructions": "Dễ trồng, tưới đều, cắt lá thường xuyên"
+  },
+  {
+    "name": "Parsley",
+    "scientific_name": "Petroselinum crispum",
+    "description": "Lá xoăn hoặc phẳng, trang trí món ăn",
+    "care_instructions": "Trồng bóng mát, tưới đều, hái lá ngoài"
+  },
+  {
+    "name": "Cilantro",
+    "scientific_name": "Coriandrum sativum",
+    "description": "Lá mùi tàu, thơm đặc trưng",
+    "care_instructions": "Trồng mùa mát, tưới nhẹ, hái lá non"
+  },
+  {
+    "name": "Fennel",
+    "scientific_name": "Foeniculum vulgare",
+    "description": "Lá mảnh, củ phình, vị hồi",
+    "care_instructions": "Cần ánh sáng, tưới đều, thu hoạch củ khi to"
+  },
+  {
+    "name": "Tarragon",
+    "scientific_name": "Artemisia dracunculus",
+    "description": "Lá mảnh, thơm, gia vị Pháp",
+    "care_instructions": "Cần ánh sáng, tưới vừa phải, chia khóm nhân giống"
+  },
+  {
+    "name": "Marjoram",
+    "scientific_name": "Origanum majorana",
+    "description": "Lá nhỏ, thơm ngọt, họ oregano",
+    "care_instructions": "Cần ánh sáng, tưới đều, cắt tỉa thường xuyên"
+  },
+  {
+    "name": "Bay leaves",
+    "scientific_name": "Laurus nobilis",
+    "description": "Lá cứng, thơm, nấu soup",
+    "care_instructions": "Cây lâu năm, chịu hạn, cắt tỉa định hình"
+  },
+  {
+    "name": "Lemongrass",
+    "scientific_name": "Cymbopogon citratus",
+    "description": "Cỏ thơm chanh, làm trà và gia vị",
+    "care_instructions": "Chịu nắng tốt, ít tưới, chia khóm nhân giống"
+  },
+  {
+    "name": "Galangal",
+    "scientific_name": "Alpinia galanga",
+    "description": "Riềng, củ thơm cay, gia vị Thái",
+    "care_instructions": "Trồng bóng mát, tưới đều, thu hoạch củ già"
+  },
+  {
+    "name": "Turmeric",
+    "scientific_name": "Curcuma longa",
+    "description": "Nghệ, củ vàng, chống viêm",
+    "care_instructions": "Trồng nơi ẩm, tưới đều, thu hoạch sau 8-10 tháng"
+  },
+  {
+    "name": "Cardamom",
+    "scientific_name": "Elettaria cardamomum",
+    "description": "Thảo quả, hạt thơm, gia vị đắt tiền",
+    "care_instructions": "Cần khí hậu ẩm, bóng mát, thu hoạch quả non"
+  }
+]
