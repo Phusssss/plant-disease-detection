@@ -41,7 +41,7 @@ class PlantDiseaseModel:
         ])
         
         self.model.compile(
-            optimizer='adam',
+            optimizer=tf.keras.optimizers.Adam(learning_rate=0.0001),  # LR thấp hơn
             loss='categorical_crossentropy',
             metrics=['accuracy']
         )
